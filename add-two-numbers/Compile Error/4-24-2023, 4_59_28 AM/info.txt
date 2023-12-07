@@ -1,0 +1,1 @@
+{"id":938668461,"lang":"cpp","lang_name":"C++","time":"7 months, 2 weeks","timestamp":1682292568,"status":20,"status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/938668461/","is_pending":"Not Pending","title":"Add Two Numbers","memory":"N/A","code":null,"compare_result":null,"title_slug":"add-two-numbers","has_notes":false,"flag_type":1}

@@ -1,0 +1,24 @@
+// https://leetcode.com/problems/1-bit-and-2-bit-characters
+
+class Solution {
+public:
+    bool isOneBitCharacter(vector<int>& bits) {
+        if(bits.size()==1)
+        return((bits[0]==0)?true:false);
+        int index=0;
+        while(index<bits.size()){
+            if(index==bits.size()-1){
+                if(bits[index]==0)
+                return(true);
+                return(false);
+            }
+            if(index<bits.size()-1){
+                if(bits[index]==1)
+                index+=2;
+                else
+                index++;
+            }
+        }
+        return(false);
+    }
+};

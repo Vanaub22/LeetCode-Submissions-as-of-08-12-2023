@@ -1,0 +1,1 @@
+{"id":927991251,"lang":"cpp","lang_name":"C++","time":"8 months","timestamp":1680628644,"status":20,"status_display":"Compile Error","runtime":"N/A","url":"/submissions/detail/927991251/","is_pending":"Not Pending","title":"Happy Number","memory":"N/A","code":null,"compare_result":null,"title_slug":"happy-number","has_notes":false,"flag_type":1}
